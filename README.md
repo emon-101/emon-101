@@ -1,173 +1,148 @@
-<h1 align="center">Hi 👋, I'm Emon Hossain</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend & MERN Stack Developer | React & Next.js Enthusiast 🚀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Emon%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=55&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emon-101&label=Profile%20Views&color=0e75b6&style=flat" alt="emon-101" />
-</p>
+# Hi, I'm Emon Hossain 👋
 
-<p align="center">
-  <a href="https://github.com/emon-101">
-    <img src="https://img.shields.io/github/followers/emon-101?label=Followers&style=social" />
-  </a>
-</p>
+### Full-Stack Developer (MERN + Next.js) — I turn ideas into deployed, production-shaped apps
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366f1?style=for-the-badge)](https://github.com/emon-101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon101/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon26.ugv@gmail.com)
 
-# 👨‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=emon-101&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
 
-- 💻 Passionate **Frontend & MERN Stack Developer**
-- 🌱 Currently exploring **Next.js, MongoDB & Backend Development**
-- ⚡ Love building **modern responsive full-stack web applications**
-- 📚 Interested in **Algorithms, Problem Solving & Web Technologies**
-- 🚀 Goal: Become a professional **Full Stack Engineer**
+</div>
 
----
+<br/>
 
-# 🛠 Tech Stack
+## 👤 About Me
 
-## 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp" />
-</p>
+I'm a frontend-leaning full-stack developer who ships **complete, deployed applications** — not just UI mockups. I care about the full picture: server/client boundaries, role-based auth, database-level performance, and code that would survive a real production audit.
 
-## ⚙️ Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+```txt
+const emon = {
+  role: "Full-Stack Developer (MERN / Next.js)",
+  focus: ["Authentication & Authorization", "Full-Stack Architecture", "Clean, Responsive UI"],
+  currentlyBuilding: "Real-world platforms with role-based dashboards & secure APIs",
+  lookingFor: "Opportunities to build meaningful products with a great team",
+};
+```
 
-## 🗄 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+- 🔭 Currently building full-stack platforms with role-based dashboards and JWT-secured APIs
+- 🌱 Deepening backend architecture, MongoDB aggregation pipelines, and system design
+- ⚡ Recent focus: authentication flows (Better Auth, JWT + JWKS), server actions, and analytics dashboards
+- 🎯 Goal: a role where I can own features end-to-end, from database to deployed UI
 
-## 🎨 UI & Styling
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
+<br/>
 
-## 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Next.js Advanced Features
-- Backend Development
-- Authentication Systems
-- MongoDB & Database Design
-- Full Stack Application Architecture
-- Performance Optimization
-- Modern UI/UX Design
-
-# 🚀 Featured Projects
-
-# 🌟 Skill Sphere
-
-### 🔗 Live Site
-https://skill-sphere-eh.vercel.app/
-
-### 📦 Repository
-https://github.com/emon-101/skill-sphere
-
-### 📝 Description
-Skill Sphere is built to provide a seamless and engaging learning experience for users who want to develop real-world skills. The platform allows users to discover trending courses, explore detailed curriculum, and manage their profile efficiently.
-
-### ✨ Features
-- Modern online learning platform
-- Authentication system
-- Course exploration experience
-- Responsive UI design
-- Clean dashboard interface
-- Optimized user experience
-
-### 🛠 Technologies Used
-- Next.js (App Router)
-- React.js
-- Tailwind CSS
-- DaisyUI
-- Better Auth
-
----
-
-# 💙 Keen Keeper
-
-### 🔗 Live Site
-https://keen-keeper-eh.vercel.app/
-
-### 📦 Repository
-https://github.com/emon-101/keen-keeper
-
-### 📝 Description
-KeenKeeper is a personal relationship manager (PRM) that helps users stay meaningfully connected with the people who matter most. It works like a lightweight CRM for personal life — helping users track friends, log interactions, and understand relationship engagement.
-
-### ✨ Features
-- Relationship management system
-- Track personal interactions
-- Modern dashboard UI
-- Responsive design
-- Organized data management
-- Smooth user experience
-
-### 🛠 Technologies Used
-- Next.js 15
-- React.js
-- Tailwind CSS
-- Vercel
-
----
-
-# 📈 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emon-101&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emon-101&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-101&layout=compact&theme=tokyonight" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel" />
 </p>
+
+| Category | Tools |
+|---|---|
+| **Languages** | JavaScript, TypeScript, C, C++ |
+| **Frontend** | React, Next.js (App Router), Tailwind CSS, HeroUI, Framer Motion |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB (native driver & aggregation pipelines) |
+| **Auth & Security** | Better Auth, JWT verification via `jose` + JWKS, role-based access control |
+| **Other** | Stripe, Recharts, Vercel deployment |
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🩸 [PulseLink](https://pulselink-client.vercel.app/) — Blood Donation Platform
+**A full-stack, role-aware ecosystem — not just a CRUD demo.**
+
+Donors, volunteers, and admins each get a dedicated dashboard, with permissions enforced on both the UI *and* the backend. Every donation request flows through a real lifecycle, and every private route is protected by signature-verified JWTs checked against a live JWKS endpoint.
+
+- 🔐 Better Auth + JWT/JWKS-secured Express API with role-based middleware
+- 📊 Admin analytics dashboard with MongoDB aggregation (`$dateTrunc`) trend charts via Recharts
+- 🩺 Full donation request lifecycle: `pending → in progress → done/canceled`
+- 💳 Stripe-integrated funding page with live contributor data
+- 🗺️ Location-aware donor search across Bangladesh's 64 districts & 490+ upazilas
+
+**Stack:** Next.js (App Router) · Express.js · MongoDB · Better Auth · HeroUI v3 · Tailwind CSS v4 · Stripe · Recharts
+
+[🔗 Live Demo](https://pulselink-client.vercel.app/) · [📦 Repository](https://github.com/emon-101/pulselink-client)
 
 ---
 
-# 🏆 GitHub Trophies
+### 💡 [IdeaVault](https://ideavault-fcaq.vercel.app/) — Startup Idea Sharing Platform
+**Where founders share, validate, and refine ideas together.**
+
+A community platform for posting startup ideas, surfacing the best via a trending algorithm, and driving feedback through threaded discussions and upvotes.
+
+- 🔥 Trending feed ranked by votes, comments, and engagement
+- 💬 Threaded comments for in-depth idea feedback
+- 🌙 Dark/light mode with system preference detection
+- 📱 Fully responsive, mobile-first design
+
+**Stack:** Next.js 15 · React · TypeScript · Tailwind CSS · HeroUI
+
+[🔗 Live Demo](https://ideavault-fcaq.vercel.app/) · [📦 Repository](https://github.com/emon-101/ideavault)
+
+---
+
+<details>
+<summary><strong>📂 More Projects</strong></summary>
+<br/>
+
+**🌟 [Skill Sphere](https://skill-sphere-eh.vercel.app/)** — Online learning platform with course discovery and profile management
+Next.js · React · Tailwind CSS · DaisyUI · Better Auth
+[Repo](https://github.com/emon-101/skill-sphere)
+
+**💙 [Keen Keeper](https://keen-keeper-eh.vercel.app/)** — Personal relationship manager (a lightweight CRM for personal life)
+Next.js 15 · React · Tailwind CSS
+[Repo](https://github.com/emon-101/keen-keeper)
+
+</details>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=emon-101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6366f1&icon_color=22d3ee" />
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6366f1" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=emon-101&theme=tokyonight&row=1&column=6" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=emon-101&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1&fire=22d3ee&currStreakLabel=22d3ee" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emon-101&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</p>
 
-# 📫 Connect With Me
+<br/>
+
+## 📫 Let's Connect
+
+I'm open to full-stack / frontend roles and freelance collaborations. Feel free to reach out.
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/emon101/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://github.com/emon-101" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
+  <a href="https://www.linkedin.com/in/emon101/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://github.com/emon-101" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
-📧 Email: emon26.ugv@gmail.com
+📧 **emon26.ugv@gmail.com**
 
----
+<div align="center">
+<br/>
 
-# ✨ Fun Fact
+⭐ *Thanks for stopping by — feel free to explore my repos and reach out!*
 
-💡 I enjoy building beautiful UI designs and solving programming problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%" />
 
----
-
-<p align="center">
-⭐ Thanks for visiting my GitHub profile!
-</p>
+</div>
