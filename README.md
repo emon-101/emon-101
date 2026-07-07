@@ -112,12 +112,12 @@ Next.js 15 · React · Tailwind CSS
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=emon-101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6366f1&icon_color=22d3ee" />
-</td>
-<td width="50%" valign="top">
+</td> -->
+<!-- <td width="50%" valign="top">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=6366f1" />
-</td>
+</td> -->
 </tr>
 </table>
 
@@ -125,9 +125,9 @@ Next.js 15 · React · Tailwind CSS
   <img width="75%" src="https://streak-stats.demolab.com?user=emon-101&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1&fire=22d3ee&currStreakLabel=22d3ee" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emon-101&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-</p>
+</p> -->
 
 <br/>
 
