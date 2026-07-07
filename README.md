@@ -4,6 +4,8 @@
 
 # Hi, I'm Emon Hossain 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;Building+production-shaped+web+applications;Authentication+%7C+APIs+%7C+System+Design" alt="Typing SVG" />
+
 ### Full-Stack Developer (MERN + Next.js) — I turn ideas into deployed, production-shaped apps
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366f1?style=for-the-badge)](https://github.com/emon-101)
@@ -11,6 +13,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon26.ugv@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=emon-101&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/emon-101?label=Followers&style=flat-square&color=6366f1" alt="followers" />
+<img src="https://img.shields.io/github/stars/emon-101?label=Stars&style=flat-square&color=6366f1" alt="stars" />
 
 </div>
 
@@ -123,6 +127,14 @@ Next.js 15 · React · Tailwind CSS
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emon-101&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emon-101/emon-101/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <br/>
