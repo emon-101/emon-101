@@ -8,7 +8,7 @@
 
 ### Full-Stack Developer (MERN + Next.js) — I turn ideas into deployed, production-shaped apps
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366f1?style=for-the-badge)]([https://github.com/emon-101](https://portfolio-emonhosaain.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366f1?style=for-the-badge)](https://portfolio-emonhosaain.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emon101/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emon26.ugv@gmail.com)
 
