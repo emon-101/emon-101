@@ -139,6 +139,14 @@ Next.js 15 · React · Tailwind CSS
 
 <br/>
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=emon-101&theme=tokyo-night&hide_border=true&bg_color=00000000&color=22d3ee&line=6366f1&point=ffffff" />
+</p>
+
+<br/>
+
 ## 📫 Let's Connect
 
 I'm open to full-stack / frontend roles and freelance collaborations. Feel free to reach out.
